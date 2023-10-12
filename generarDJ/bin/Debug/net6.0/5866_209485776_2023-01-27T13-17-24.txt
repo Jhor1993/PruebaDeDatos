@@ -1,0 +1,782 @@
+[
+  {
+    "header": {
+      "idPerson": 209485776,
+      "period": 20220100,
+      "tax": 2,
+      "asset": "",
+      "quota": 1,
+      "amount": 0
+    },
+    "Registros": {
+      "ID_DJ": 151646,
+      "Tipo_dj": 4,
+      "Fecha_presentacion": "2021-02-24T00:00:00-03:00",
+      "Fecha_operacion": "2022-04-05T23:07:00-03:00",
+      "Concepto": 0,
+      "Razon_social": "xxxxx xx xxxxx xxxx x.x.",
+      "Inscripto": "7777777777",
+      "Cod_jurisdiccion": 901,
+      "Base_imponible": 0,
+      "Impuesto_determinado": 566067.54,
+      "Ingresos_gravados": 0,
+      "Ingresos_no_gravados": 0,
+      "Ingresos_exentos": 0,
+      "Coeficiente_unificado": 0,
+      "Saldos_a_favor_periodos_anteriores": 0,
+      "Percepciones_soportadas": 0,
+      "Compensaciones_percepcion": 0,
+      "Retenciones_bancarias": 0,
+      "Retenciones": 0,
+      "Percepciones_aduaneras": 0,
+      "Otros_debitos": 0,
+      "Creditos_anticipo": 0,
+      "Pagos_no_bancarios": 0,
+      "Mecenazgo": 0,
+      "Diferimiento": 0,
+      "Compania_de_seguros": 0,
+      "Otros_creditos": 0,
+      "Fibra_optica": 0,
+      "Promocion_hotelera": 0,
+      "Pago_cuenta_empresas_carga_camiones": 0,
+      "Monto_exportacion": 0,
+      "Ingresos_totales": 0,
+      "Monto_imponible_art_2": 0,
+      "Monto_imponible_inicio_de_actividad": 0,
+      "Monto_imponible_regimenes_especiales": 0,
+      "Transaccion_afip": "777777777"
+    },
+    "Jurisdicciones": [
+      {
+        "Cod_jurisdiccion": 901,
+        "Coeficiente_unificado": 0
+      }
+    ],
+    "Actividades": [
+      {
+        "Cod_actividad": 641930,
+        "Cod_regimen": 8,
+        "Tratamiento_fiscal": 0,
+        "Base_imponible": 20149272.2,
+        "Base_ajustada": 20149272.2,
+        "Alicuota": 8,
+        "Impuesto_actividad": 1611941.78
+      }
+    ]
+  },
+  {
+    "header": {
+      "idPerson": 209485776,
+      "period": 20220200,
+      "tax": 2,
+      "asset": "",
+      "quota": 2,
+      "amount": 0
+    },
+    "Registros": {
+      "ID_DJ": 151647,
+      "Tipo_dj": 4,
+      "Fecha_presentacion": "2021-02-24T00:00:00-03:00",
+      "Fecha_operacion": "2022-04-05T23:07:00-03:00",
+      "Concepto": 0,
+      "Razon_social": "xxxxx xx xxxxx xxxx x.x.",
+      "Inscripto": "7777777777",
+      "Cod_jurisdiccion": 901,
+      "Base_imponible": 0,
+      "Impuesto_determinado": 566067.54,
+      "Ingresos_gravados": 0,
+      "Ingresos_no_gravados": 0,
+      "Ingresos_exentos": 0,
+      "Coeficiente_unificado": 0,
+      "Saldos_a_favor_periodos_anteriores": 0,
+      "Percepciones_soportadas": 0,
+      "Compensaciones_percepcion": 0,
+      "Retenciones_bancarias": 0,
+      "Retenciones": 0,
+      "Percepciones_aduaneras": 0,
+      "Otros_debitos": 0,
+      "Creditos_anticipo": 0,
+      "Pagos_no_bancarios": 0,
+      "Mecenazgo": 0,
+      "Diferimiento": 0,
+      "Compania_de_seguros": 0,
+      "Otros_creditos": 0,
+      "Fibra_optica": 0,
+      "Promocion_hotelera": 0,
+      "Pago_cuenta_empresas_carga_camiones": 0,
+      "Monto_exportacion": 0,
+      "Ingresos_totales": 0,
+      "Monto_imponible_art_2": 0,
+      "Monto_imponible_inicio_de_actividad": 0,
+      "Monto_imponible_regimenes_especiales": 0,
+      "Transaccion_afip": "777777777"
+    },
+    "Jurisdicciones": [
+      {
+        "Cod_jurisdiccion": 901,
+        "Coeficiente_unificado": 0
+      }
+    ],
+    "Actividades": [
+      {
+        "Cod_actividad": 641930,
+        "Cod_regimen": 8,
+        "Tratamiento_fiscal": 0,
+        "Base_imponible": 20149272.2,
+        "Base_ajustada": 20149272.2,
+        "Alicuota": 8,
+        "Impuesto_actividad": 1611941.78
+      }
+    ]
+  },
+  {
+    "header": {
+      "idPerson": 209485776,
+      "period": 20220300,
+      "tax": 2,
+      "asset": "",
+      "quota": 3,
+      "amount": 0
+    },
+    "Registros": {
+      "ID_DJ": 151648,
+      "Tipo_dj": 4,
+      "Fecha_presentacion": "2021-02-24T00:00:00-03:00",
+      "Fecha_operacion": "2022-04-05T23:07:00-03:00",
+      "Concepto": 0,
+      "Razon_social": "xxxxx xx xxxxx xxxx x.x.",
+      "Inscripto": "7777777777",
+      "Cod_jurisdiccion": 901,
+      "Base_imponible": 0,
+      "Impuesto_determinado": 566067.54,
+      "Ingresos_gravados": 0,
+      "Ingresos_no_gravados": 0,
+      "Ingresos_exentos": 0,
+      "Coeficiente_unificado": 0,
+      "Saldos_a_favor_periodos_anteriores": 0,
+      "Percepciones_soportadas": 0,
+      "Compensaciones_percepcion": 0,
+      "Retenciones_bancarias": 0,
+      "Retenciones": 0,
+      "Percepciones_aduaneras": 0,
+      "Otros_debitos": 0,
+      "Creditos_anticipo": 0,
+      "Pagos_no_bancarios": 0,
+      "Mecenazgo": 0,
+      "Diferimiento": 0,
+      "Compania_de_seguros": 0,
+      "Otros_creditos": 0,
+      "Fibra_optica": 0,
+      "Promocion_hotelera": 0,
+      "Pago_cuenta_empresas_carga_camiones": 0,
+      "Monto_exportacion": 0,
+      "Ingresos_totales": 0,
+      "Monto_imponible_art_2": 0,
+      "Monto_imponible_inicio_de_actividad": 0,
+      "Monto_imponible_regimenes_especiales": 0,
+      "Transaccion_afip": "777777777"
+    },
+    "Jurisdicciones": [
+      {
+        "Cod_jurisdiccion": 901,
+        "Coeficiente_unificado": 0
+      }
+    ],
+    "Actividades": [
+      {
+        "Cod_actividad": 641930,
+        "Cod_regimen": 8,
+        "Tratamiento_fiscal": 0,
+        "Base_imponible": 20149272.2,
+        "Base_ajustada": 20149272.2,
+        "Alicuota": 8,
+        "Impuesto_actividad": 1611941.78
+      }
+    ]
+  },
+  {
+    "header": {
+      "idPerson": 209485776,
+      "period": 20220400,
+      "tax": 2,
+      "asset": "",
+      "quota": 4,
+      "amount": 0
+    },
+    "Registros": {
+      "ID_DJ": 151649,
+      "Tipo_dj": 4,
+      "Fecha_presentacion": "2021-02-24T00:00:00-03:00",
+      "Fecha_operacion": "2022-04-05T23:07:00-03:00",
+      "Concepto": 0,
+      "Razon_social": "xxxxx xx xxxxx xxxx x.x.",
+      "Inscripto": "7777777777",
+      "Cod_jurisdiccion": 901,
+      "Base_imponible": 0,
+      "Impuesto_determinado": 566067.54,
+      "Ingresos_gravados": 0,
+      "Ingresos_no_gravados": 0,
+      "Ingresos_exentos": 0,
+      "Coeficiente_unificado": 0,
+      "Saldos_a_favor_periodos_anteriores": 0,
+      "Percepciones_soportadas": 0,
+      "Compensaciones_percepcion": 0,
+      "Retenciones_bancarias": 0,
+      "Retenciones": 0,
+      "Percepciones_aduaneras": 0,
+      "Otros_debitos": 0,
+      "Creditos_anticipo": 0,
+      "Pagos_no_bancarios": 0,
+      "Mecenazgo": 0,
+      "Diferimiento": 0,
+      "Compania_de_seguros": 0,
+      "Otros_creditos": 0,
+      "Fibra_optica": 0,
+      "Promocion_hotelera": 0,
+      "Pago_cuenta_empresas_carga_camiones": 0,
+      "Monto_exportacion": 0,
+      "Ingresos_totales": 0,
+      "Monto_imponible_art_2": 0,
+      "Monto_imponible_inicio_de_actividad": 0,
+      "Monto_imponible_regimenes_especiales": 0,
+      "Transaccion_afip": "777777777"
+    },
+    "Jurisdicciones": [
+      {
+        "Cod_jurisdiccion": 901,
+        "Coeficiente_unificado": 0
+      }
+    ],
+    "Actividades": [
+      {
+        "Cod_actividad": 641930,
+        "Cod_regimen": 8,
+        "Tratamiento_fiscal": 0,
+        "Base_imponible": 20149272.2,
+        "Base_ajustada": 20149272.2,
+        "Alicuota": 8,
+        "Impuesto_actividad": 1611941.78
+      }
+    ]
+  },
+  {
+    "header": {
+      "idPerson": 209485776,
+      "period": 20220500,
+      "tax": 2,
+      "asset": "",
+      "quota": 5,
+      "amount": 0
+    },
+    "Registros": {
+      "ID_DJ": 151650,
+      "Tipo_dj": 4,
+      "Fecha_presentacion": "2021-02-24T00:00:00-03:00",
+      "Fecha_operacion": "2022-04-05T23:07:00-03:00",
+      "Concepto": 0,
+      "Razon_social": "xxxxx xx xxxxx xxxx x.x.",
+      "Inscripto": "7777777777",
+      "Cod_jurisdiccion": 901,
+      "Base_imponible": 0,
+      "Impuesto_determinado": 566067.54,
+      "Ingresos_gravados": 0,
+      "Ingresos_no_gravados": 0,
+      "Ingresos_exentos": 0,
+      "Coeficiente_unificado": 0,
+      "Saldos_a_favor_periodos_anteriores": 0,
+      "Percepciones_soportadas": 0,
+      "Compensaciones_percepcion": 0,
+      "Retenciones_bancarias": 0,
+      "Retenciones": 0,
+      "Percepciones_aduaneras": 0,
+      "Otros_debitos": 0,
+      "Creditos_anticipo": 0,
+      "Pagos_no_bancarios": 0,
+      "Mecenazgo": 0,
+      "Diferimiento": 0,
+      "Compania_de_seguros": 0,
+      "Otros_creditos": 0,
+      "Fibra_optica": 0,
+      "Promocion_hotelera": 0,
+      "Pago_cuenta_empresas_carga_camiones": 0,
+      "Monto_exportacion": 0,
+      "Ingresos_totales": 0,
+      "Monto_imponible_art_2": 0,
+      "Monto_imponible_inicio_de_actividad": 0,
+      "Monto_imponible_regimenes_especiales": 0,
+      "Transaccion_afip": "777777777"
+    },
+    "Jurisdicciones": [
+      {
+        "Cod_jurisdiccion": 901,
+        "Coeficiente_unificado": 0
+      }
+    ],
+    "Actividades": [
+      {
+        "Cod_actividad": 641930,
+        "Cod_regimen": 8,
+        "Tratamiento_fiscal": 0,
+        "Base_imponible": 20149272.2,
+        "Base_ajustada": 20149272.2,
+        "Alicuota": 8,
+        "Impuesto_actividad": 1611941.78
+      }
+    ]
+  },
+  {
+    "header": {
+      "idPerson": 209485776,
+      "period": 20220600,
+      "tax": 2,
+      "asset": "",
+      "quota": 6,
+      "amount": 0
+    },
+    "Registros": {
+      "ID_DJ": 151651,
+      "Tipo_dj": 4,
+      "Fecha_presentacion": "2021-02-24T00:00:00-03:00",
+      "Fecha_operacion": "2022-04-05T23:07:00-03:00",
+      "Concepto": 0,
+      "Razon_social": "xxxxx xx xxxxx xxxx x.x.",
+      "Inscripto": "7777777777",
+      "Cod_jurisdiccion": 901,
+      "Base_imponible": 0,
+      "Impuesto_determinado": 566067.54,
+      "Ingresos_gravados": 0,
+      "Ingresos_no_gravados": 0,
+      "Ingresos_exentos": 0,
+      "Coeficiente_unificado": 0,
+      "Saldos_a_favor_periodos_anteriores": 0,
+      "Percepciones_soportadas": 0,
+      "Compensaciones_percepcion": 0,
+      "Retenciones_bancarias": 0,
+      "Retenciones": 0,
+      "Percepciones_aduaneras": 0,
+      "Otros_debitos": 0,
+      "Creditos_anticipo": 0,
+      "Pagos_no_bancarios": 0,
+      "Mecenazgo": 0,
+      "Diferimiento": 0,
+      "Compania_de_seguros": 0,
+      "Otros_creditos": 0,
+      "Fibra_optica": 0,
+      "Promocion_hotelera": 0,
+      "Pago_cuenta_empresas_carga_camiones": 0,
+      "Monto_exportacion": 0,
+      "Ingresos_totales": 0,
+      "Monto_imponible_art_2": 0,
+      "Monto_imponible_inicio_de_actividad": 0,
+      "Monto_imponible_regimenes_especiales": 0,
+      "Transaccion_afip": "777777777"
+    },
+    "Jurisdicciones": [
+      {
+        "Cod_jurisdiccion": 901,
+        "Coeficiente_unificado": 0
+      }
+    ],
+    "Actividades": [
+      {
+        "Cod_actividad": 641930,
+        "Cod_regimen": 8,
+        "Tratamiento_fiscal": 0,
+        "Base_imponible": 20149272.2,
+        "Base_ajustada": 20149272.2,
+        "Alicuota": 8,
+        "Impuesto_actividad": 1611941.78
+      }
+    ]
+  },
+  {
+    "header": {
+      "idPerson": 209485776,
+      "period": 20220700,
+      "tax": 2,
+      "asset": "",
+      "quota": 7,
+      "amount": 0
+    },
+    "Registros": {
+      "ID_DJ": 151652,
+      "Tipo_dj": 4,
+      "Fecha_presentacion": "2021-02-24T00:00:00-03:00",
+      "Fecha_operacion": "2022-04-05T23:07:00-03:00",
+      "Concepto": 0,
+      "Razon_social": "xxxxx xx xxxxx xxxx x.x.",
+      "Inscripto": "7777777777",
+      "Cod_jurisdiccion": 901,
+      "Base_imponible": 0,
+      "Impuesto_determinado": 566067.54,
+      "Ingresos_gravados": 0,
+      "Ingresos_no_gravados": 0,
+      "Ingresos_exentos": 0,
+      "Coeficiente_unificado": 0,
+      "Saldos_a_favor_periodos_anteriores": 0,
+      "Percepciones_soportadas": 0,
+      "Compensaciones_percepcion": 0,
+      "Retenciones_bancarias": 0,
+      "Retenciones": 0,
+      "Percepciones_aduaneras": 0,
+      "Otros_debitos": 0,
+      "Creditos_anticipo": 0,
+      "Pagos_no_bancarios": 0,
+      "Mecenazgo": 0,
+      "Diferimiento": 0,
+      "Compania_de_seguros": 0,
+      "Otros_creditos": 0,
+      "Fibra_optica": 0,
+      "Promocion_hotelera": 0,
+      "Pago_cuenta_empresas_carga_camiones": 0,
+      "Monto_exportacion": 0,
+      "Ingresos_totales": 0,
+      "Monto_imponible_art_2": 0,
+      "Monto_imponible_inicio_de_actividad": 0,
+      "Monto_imponible_regimenes_especiales": 0,
+      "Transaccion_afip": "777777777"
+    },
+    "Jurisdicciones": [
+      {
+        "Cod_jurisdiccion": 901,
+        "Coeficiente_unificado": 0
+      }
+    ],
+    "Actividades": [
+      {
+        "Cod_actividad": 641930,
+        "Cod_regimen": 8,
+        "Tratamiento_fiscal": 0,
+        "Base_imponible": 20149272.2,
+        "Base_ajustada": 20149272.2,
+        "Alicuota": 8,
+        "Impuesto_actividad": 1611941.78
+      }
+    ]
+  },
+  {
+    "header": {
+      "idPerson": 209485776,
+      "period": 20220800,
+      "tax": 2,
+      "asset": "",
+      "quota": 8,
+      "amount": 0
+    },
+    "Registros": {
+      "ID_DJ": 151653,
+      "Tipo_dj": 4,
+      "Fecha_presentacion": "2021-02-24T00:00:00-03:00",
+      "Fecha_operacion": "2022-04-05T23:07:00-03:00",
+      "Concepto": 0,
+      "Razon_social": "xxxxx xx xxxxx xxxx x.x.",
+      "Inscripto": "7777777777",
+      "Cod_jurisdiccion": 901,
+      "Base_imponible": 0,
+      "Impuesto_determinado": 566067.54,
+      "Ingresos_gravados": 0,
+      "Ingresos_no_gravados": 0,
+      "Ingresos_exentos": 0,
+      "Coeficiente_unificado": 0,
+      "Saldos_a_favor_periodos_anteriores": 0,
+      "Percepciones_soportadas": 0,
+      "Compensaciones_percepcion": 0,
+      "Retenciones_bancarias": 0,
+      "Retenciones": 0,
+      "Percepciones_aduaneras": 0,
+      "Otros_debitos": 0,
+      "Creditos_anticipo": 0,
+      "Pagos_no_bancarios": 0,
+      "Mecenazgo": 0,
+      "Diferimiento": 0,
+      "Compania_de_seguros": 0,
+      "Otros_creditos": 0,
+      "Fibra_optica": 0,
+      "Promocion_hotelera": 0,
+      "Pago_cuenta_empresas_carga_camiones": 0,
+      "Monto_exportacion": 0,
+      "Ingresos_totales": 0,
+      "Monto_imponible_art_2": 0,
+      "Monto_imponible_inicio_de_actividad": 0,
+      "Monto_imponible_regimenes_especiales": 0,
+      "Transaccion_afip": "777777777"
+    },
+    "Jurisdicciones": [
+      {
+        "Cod_jurisdiccion": 901,
+        "Coeficiente_unificado": 0
+      }
+    ],
+    "Actividades": [
+      {
+        "Cod_actividad": 641930,
+        "Cod_regimen": 8,
+        "Tratamiento_fiscal": 0,
+        "Base_imponible": 20149272.2,
+        "Base_ajustada": 20149272.2,
+        "Alicuota": 8,
+        "Impuesto_actividad": 1611941.78
+      }
+    ]
+  },
+  {
+    "header": {
+      "idPerson": 209485776,
+      "period": 20220900,
+      "tax": 2,
+      "asset": "",
+      "quota": 9,
+      "amount": 0
+    },
+    "Registros": {
+      "ID_DJ": 151654,
+      "Tipo_dj": 4,
+      "Fecha_presentacion": "2021-02-24T00:00:00-03:00",
+      "Fecha_operacion": "2022-04-05T23:07:00-03:00",
+      "Concepto": 0,
+      "Razon_social": "xxxxx xx xxxxx xxxx x.x.",
+      "Inscripto": "7777777777",
+      "Cod_jurisdiccion": 901,
+      "Base_imponible": 0,
+      "Impuesto_determinado": 566067.54,
+      "Ingresos_gravados": 0,
+      "Ingresos_no_gravados": 0,
+      "Ingresos_exentos": 0,
+      "Coeficiente_unificado": 0,
+      "Saldos_a_favor_periodos_anteriores": 0,
+      "Percepciones_soportadas": 0,
+      "Compensaciones_percepcion": 0,
+      "Retenciones_bancarias": 0,
+      "Retenciones": 0,
+      "Percepciones_aduaneras": 0,
+      "Otros_debitos": 0,
+      "Creditos_anticipo": 0,
+      "Pagos_no_bancarios": 0,
+      "Mecenazgo": 0,
+      "Diferimiento": 0,
+      "Compania_de_seguros": 0,
+      "Otros_creditos": 0,
+      "Fibra_optica": 0,
+      "Promocion_hotelera": 0,
+      "Pago_cuenta_empresas_carga_camiones": 0,
+      "Monto_exportacion": 0,
+      "Ingresos_totales": 0,
+      "Monto_imponible_art_2": 0,
+      "Monto_imponible_inicio_de_actividad": 0,
+      "Monto_imponible_regimenes_especiales": 0,
+      "Transaccion_afip": "777777777"
+    },
+    "Jurisdicciones": [
+      {
+        "Cod_jurisdiccion": 901,
+        "Coeficiente_unificado": 0
+      }
+    ],
+    "Actividades": [
+      {
+        "Cod_actividad": 641930,
+        "Cod_regimen": 8,
+        "Tratamiento_fiscal": 0,
+        "Base_imponible": 20149272.2,
+        "Base_ajustada": 20149272.2,
+        "Alicuota": 8,
+        "Impuesto_actividad": 1611941.78
+      }
+    ]
+  },
+  {
+    "header": {
+      "idPerson": 209485776,
+      "period": 20221000,
+      "tax": 2,
+      "asset": "",
+      "quota": 10,
+      "amount": 0
+    },
+    "Registros": {
+      "ID_DJ": 151655,
+      "Tipo_dj": 4,
+      "Fecha_presentacion": "2021-02-24T00:00:00-03:00",
+      "Fecha_operacion": "2022-04-05T23:07:00-03:00",
+      "Concepto": 0,
+      "Razon_social": "xxxxx xx xxxxx xxxx x.x.",
+      "Inscripto": "7777777777",
+      "Cod_jurisdiccion": 901,
+      "Base_imponible": 0,
+      "Impuesto_determinado": 566067.54,
+      "Ingresos_gravados": 0,
+      "Ingresos_no_gravados": 0,
+      "Ingresos_exentos": 0,
+      "Coeficiente_unificado": 0,
+      "Saldos_a_favor_periodos_anteriores": 0,
+      "Percepciones_soportadas": 0,
+      "Compensaciones_percepcion": 0,
+      "Retenciones_bancarias": 0,
+      "Retenciones": 0,
+      "Percepciones_aduaneras": 0,
+      "Otros_debitos": 0,
+      "Creditos_anticipo": 0,
+      "Pagos_no_bancarios": 0,
+      "Mecenazgo": 0,
+      "Diferimiento": 0,
+      "Compania_de_seguros": 0,
+      "Otros_creditos": 0,
+      "Fibra_optica": 0,
+      "Promocion_hotelera": 0,
+      "Pago_cuenta_empresas_carga_camiones": 0,
+      "Monto_exportacion": 0,
+      "Ingresos_totales": 0,
+      "Monto_imponible_art_2": 0,
+      "Monto_imponible_inicio_de_actividad": 0,
+      "Monto_imponible_regimenes_especiales": 0,
+      "Transaccion_afip": "777777777"
+    },
+    "Jurisdicciones": [
+      {
+        "Cod_jurisdiccion": 901,
+        "Coeficiente_unificado": 0
+      }
+    ],
+    "Actividades": [
+      {
+        "Cod_actividad": 641930,
+        "Cod_regimen": 8,
+        "Tratamiento_fiscal": 0,
+        "Base_imponible": 20149272.2,
+        "Base_ajustada": 20149272.2,
+        "Alicuota": 8,
+        "Impuesto_actividad": 1611941.78
+      }
+    ]
+  },
+  {
+    "header": {
+      "idPerson": 209485776,
+      "period": 20221100,
+      "tax": 2,
+      "asset": "",
+      "quota": 11,
+      "amount": 0
+    },
+    "Registros": {
+      "ID_DJ": 151656,
+      "Tipo_dj": 4,
+      "Fecha_presentacion": "2021-02-24T00:00:00-03:00",
+      "Fecha_operacion": "2022-04-05T23:07:00-03:00",
+      "Concepto": 0,
+      "Razon_social": "xxxxx xx xxxxx xxxx x.x.",
+      "Inscripto": "7777777777",
+      "Cod_jurisdiccion": 901,
+      "Base_imponible": 0,
+      "Impuesto_determinado": 566067.54,
+      "Ingresos_gravados": 0,
+      "Ingresos_no_gravados": 0,
+      "Ingresos_exentos": 0,
+      "Coeficiente_unificado": 0,
+      "Saldos_a_favor_periodos_anteriores": 0,
+      "Percepciones_soportadas": 0,
+      "Compensaciones_percepcion": 0,
+      "Retenciones_bancarias": 0,
+      "Retenciones": 0,
+      "Percepciones_aduaneras": 0,
+      "Otros_debitos": 0,
+      "Creditos_anticipo": 0,
+      "Pagos_no_bancarios": 0,
+      "Mecenazgo": 0,
+      "Diferimiento": 0,
+      "Compania_de_seguros": 0,
+      "Otros_creditos": 0,
+      "Fibra_optica": 0,
+      "Promocion_hotelera": 0,
+      "Pago_cuenta_empresas_carga_camiones": 0,
+      "Monto_exportacion": 0,
+      "Ingresos_totales": 0,
+      "Monto_imponible_art_2": 0,
+      "Monto_imponible_inicio_de_actividad": 0,
+      "Monto_imponible_regimenes_especiales": 0,
+      "Transaccion_afip": "777777777"
+    },
+    "Jurisdicciones": [
+      {
+        "Cod_jurisdiccion": 901,
+        "Coeficiente_unificado": 0
+      }
+    ],
+    "Actividades": [
+      {
+        "Cod_actividad": 641930,
+        "Cod_regimen": 8,
+        "Tratamiento_fiscal": 0,
+        "Base_imponible": 20149272.2,
+        "Base_ajustada": 20149272.2,
+        "Alicuota": 8,
+        "Impuesto_actividad": 1611941.78
+      }
+    ]
+  },
+  {
+    "header": {
+      "idPerson": 209485776,
+      "period": 20221200,
+      "tax": 2,
+      "asset": "",
+      "quota": 12,
+      "amount": 0
+    },
+    "Registros": {
+      "ID_DJ": 151657,
+      "Tipo_dj": 4,
+      "Fecha_presentacion": "2021-02-24T00:00:00-03:00",
+      "Fecha_operacion": "2022-04-05T23:07:00-03:00",
+      "Concepto": 0,
+      "Razon_social": "xxxxx xx xxxxx xxxx x.x.",
+      "Inscripto": "7777777777",
+      "Cod_jurisdiccion": 901,
+      "Base_imponible": 0,
+      "Impuesto_determinado": 566067.54,
+      "Ingresos_gravados": 0,
+      "Ingresos_no_gravados": 0,
+      "Ingresos_exentos": 0,
+      "Coeficiente_unificado": 0,
+      "Saldos_a_favor_periodos_anteriores": 0,
+      "Percepciones_soportadas": 0,
+      "Compensaciones_percepcion": 0,
+      "Retenciones_bancarias": 0,
+      "Retenciones": 0,
+      "Percepciones_aduaneras": 0,
+      "Otros_debitos": 0,
+      "Creditos_anticipo": 0,
+      "Pagos_no_bancarios": 0,
+      "Mecenazgo": 0,
+      "Diferimiento": 0,
+      "Compania_de_seguros": 0,
+      "Otros_creditos": 0,
+      "Fibra_optica": 0,
+      "Promocion_hotelera": 0,
+      "Pago_cuenta_empresas_carga_camiones": 0,
+      "Monto_exportacion": 0,
+      "Ingresos_totales": 0,
+      "Monto_imponible_art_2": 0,
+      "Monto_imponible_inicio_de_actividad": 0,
+      "Monto_imponible_regimenes_especiales": 0,
+      "Transaccion_afip": "777777777"
+    },
+    "Jurisdicciones": [
+      {
+        "Cod_jurisdiccion": 901,
+        "Coeficiente_unificado": 0
+      }
+    ],
+    "Actividades": [
+      {
+        "Cod_actividad": 641930,
+        "Cod_regimen": 8,
+        "Tratamiento_fiscal": 0,
+        "Base_imponible": 20149272.2,
+        "Base_ajustada": 20149272.2,
+        "Alicuota": 8,
+        "Impuesto_actividad": 1611941.78
+      }
+    ]
+  }
+]

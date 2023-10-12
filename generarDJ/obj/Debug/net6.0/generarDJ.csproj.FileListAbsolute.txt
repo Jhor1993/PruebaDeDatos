@@ -1,0 +1,17 @@
+C:\Users\ameri\OneDrive\Escritorio\Proyecto-generarDJ\generarDJ\generarDJ\bin\Debug\net6.0\generarDJ.exe
+C:\Users\ameri\OneDrive\Escritorio\Proyecto-generarDJ\generarDJ\generarDJ\bin\Debug\net6.0\generarDJ.deps.json
+C:\Users\ameri\OneDrive\Escritorio\Proyecto-generarDJ\generarDJ\generarDJ\bin\Debug\net6.0\generarDJ.runtimeconfig.json
+C:\Users\ameri\OneDrive\Escritorio\Proyecto-generarDJ\generarDJ\generarDJ\bin\Debug\net6.0\generarDJ.dll
+C:\Users\ameri\OneDrive\Escritorio\Proyecto-generarDJ\generarDJ\generarDJ\bin\Debug\net6.0\generarDJ.pdb
+C:\Users\ameri\OneDrive\Escritorio\Proyecto-generarDJ\generarDJ\generarDJ\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ameri\OneDrive\Escritorio\Proyecto-generarDJ\generarDJ\generarDJ\obj\Debug\net6.0\generarDJ.csproj.AssemblyReference.cache
+C:\Users\ameri\OneDrive\Escritorio\Proyecto-generarDJ\generarDJ\generarDJ\obj\Debug\net6.0\generarDJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameri\OneDrive\Escritorio\Proyecto-generarDJ\generarDJ\generarDJ\obj\Debug\net6.0\generarDJ.AssemblyInfoInputs.cache
+C:\Users\ameri\OneDrive\Escritorio\Proyecto-generarDJ\generarDJ\generarDJ\obj\Debug\net6.0\generarDJ.AssemblyInfo.cs
+C:\Users\ameri\OneDrive\Escritorio\Proyecto-generarDJ\generarDJ\generarDJ\obj\Debug\net6.0\generarDJ.csproj.CoreCompileInputs.cache
+C:\Users\ameri\OneDrive\Escritorio\Proyecto-generarDJ\generarDJ\generarDJ\obj\Debug\net6.0\generarDJ.csproj.CopyComplete
+C:\Users\ameri\OneDrive\Escritorio\Proyecto-generarDJ\generarDJ\generarDJ\obj\Debug\net6.0\generarDJ.dll
+C:\Users\ameri\OneDrive\Escritorio\Proyecto-generarDJ\generarDJ\generarDJ\obj\Debug\net6.0\refint\generarDJ.dll
+C:\Users\ameri\OneDrive\Escritorio\Proyecto-generarDJ\generarDJ\generarDJ\obj\Debug\net6.0\generarDJ.pdb
+C:\Users\ameri\OneDrive\Escritorio\Proyecto-generarDJ\generarDJ\generarDJ\obj\Debug\net6.0\generarDJ.genruntimeconfig.cache
+C:\Users\ameri\OneDrive\Escritorio\Proyecto-generarDJ\generarDJ\generarDJ\obj\Debug\net6.0\ref\generarDJ.dll

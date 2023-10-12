@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ow1VdG6N+eSJ0trDeOFGQOGfO6Z5qWVxZDOwAYk3M4H5GaJCwIBXBjLSU8YCOoWulK4UWAVLp4KTQX3wER8onA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ameri\\OneDrive\\Escritorio\\Proyecto-generarDJ\\generarDJ\\generarDJ\\generarDJ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ameri\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
